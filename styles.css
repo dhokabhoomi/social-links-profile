@@ -4,7 +4,7 @@
     font-family: "Inter";
 }
 body{
-    background-color: rgb(16, 16, 16);
+    background-color: rgb(20, 20, 20);
     color: rgb(254, 254, 254);
     height: 100vh;
     text-align: center;
@@ -17,9 +17,9 @@ body{
     width: 100%;
     min-width: 220px;
     max-width: 400px;
-    background-color: rgb(24, 24, 24);
+    background-color: rgb(31, 31, 31);
     border: none;
-    border-radius: 4px;
+    border-radius: 12px;
     padding: 32px;
 }
 
@@ -37,11 +37,11 @@ body{
     margin-bottom: 8px;
 }
 #info > h4{
-    color: rgb(186, 252, 34);
+    color: rgb(197, 248, 42);
     margin-bottom: 28px;
 }
 #info > p{
-    font-size: 16px;
+    font-size: 14px;
     margin-bottom: 12px;
     color: rgb(220, 220, 220);
 }
@@ -55,14 +55,14 @@ body{
 #social-links > a{
     font-weight: 500;
     text-decoration: none;
-    color: rgb(252, 252, 252);
+    color: rgb(255, 255, 255);
     padding: 12px;
-    background-color: rgb(39, 39, 39);
+    background-color: rgb(51, 51, 51);
     margin-top: 12px;
-    border-radius: 4px;
+    border-radius: 8px;
 }
 #social-links>a:hover{
-    background-color: rgb(186, 252, 34);
+    background-color: rgb(197, 248, 42);
     color: rgb(19, 37, 0);
 }
 
