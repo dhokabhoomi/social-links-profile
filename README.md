@@ -6,7 +6,6 @@ This is a simple social-links profile webpage showcasing personal details and so
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,9 +19,6 @@ Users should be able to:
 - View the profile card with a responsive layout.
 - Hover over social media links to see an interactive effect.
 
-### Links
-
-- [Solution URL](https://github.com/dhokabhoomi/social-links-profile)
 ## My process
 
 ### Built with
